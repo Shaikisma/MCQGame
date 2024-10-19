@@ -80,7 +80,7 @@ function App() {
       </div>
     </div>
     <footer className='foot'>
-    <span className='info'>	&#169; 09 July 2024 | Akshat Pratap Singh</span>
+    <span className='info'>	&#169; 09 July 2024 | Shaik Ismail</span>
   </footer>
   </div>
   );
